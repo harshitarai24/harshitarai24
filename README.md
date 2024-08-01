@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HARSHITA RAI</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png">
+<img align="right" alt="coding" width="400" src="(https://github.com/user-attachments/assets/e51c57bf-36fe-452a-9215-4bd66ca53554.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitarai24&label=Profile%20views&color=0e75b6&style=flat" alt="harshitarai24" /> </p>
 
